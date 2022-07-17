@@ -3,6 +3,9 @@
 Stream I/O to file c++. Operator overloading.
 
 Потоковый ввод вывод в файл c++. Перегрузка операторов. Изучение С++ для начинающих. | Visual Studio 2019 | LESSON #119 
+
+https://youtu.be/z9m5XpOAxm0
+
 Журавлёв Сергей | #SimpleCode | Udemy
 
 https://www.udemy.com/user/zhuravliov-sergei/
